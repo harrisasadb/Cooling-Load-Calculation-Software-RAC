@@ -35,5 +35,5 @@ Ensuring that impossible values are not accidentally inputted will make
 the program significantly more user friendly.
 
 
-- Harris Asad & Sheikh Emad ud din
+- Harris Asad (https://github.com/harrisasadb) & Sheikh Emad ud din (https://github.com/Red-Salmon)
 - May, 2018
